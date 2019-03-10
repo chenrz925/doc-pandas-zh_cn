@@ -3,6 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. module:: pandas
+
+==============================
+pandas：强力的Python数据分析工具包
+==============================
+
+**日期**：2019年2月3日
+
+**版本**：0.24.1
+
+**实用链接**： 
+`二进制安装 <https://pypi.org/project/pandas>`__ |
+`源代码仓库 <https://github.com/pandas-dev/pandas>`__ |
+`问题和想法 <https://github.com/pandas-dev/pandas/issues>`__ |
+`Q&A支持 <https://stackoverflow.com/questions/tagged/pandas>`__ |
+`邮件列表 <https://groups.google.com/forum/#!forum/pydata>`__
+
+:mod:`pandas` 是一个具有使用简单数据结构的开源高性能`Python <https://www.python.org/>`数据分析库。
+
+查看 :ref:`overview` 了解关于库的更多细节。
+
 Welcome to pandas-zh_cn's documentation!
 ========================================
 
@@ -18,3 +39,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
