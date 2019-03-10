@@ -24,34 +24,6 @@ pandas：强力的Python数据分析工具包
 
 查看 :ref:`overview` 了解关于库的更多细节。
 
-{% if single_doc and single_doc.endswith('.rst') -%}
 .. toctree::
-    :maxdepth: 2
-
-    {{ single_doc[:-4] }}
-{% elif single_doc %}
-.. autosummary::
-    :toctree: reference/api/
-
-    {{ single_doc }}
-{% else -%}
-.. toctree::
-    :maxdepth: 2
-{% endif %}
-
-    {% if not single_doc -%}
-    What's New in 0.25.0 <whatsnew/v0.25.0>
-    install
-    getting_started/index
-    user_guide/index
-    ecosystem
-    {% endif -%}
-    {% if include_api -%}
-    reference/index
-    {% endif -%}
-    {% if not single_doc -%}
-    development/index
-    whatsnew/index
-    {% endif -%}
-
-
+   :maxdepth: 2
+   :caption: Contents:
