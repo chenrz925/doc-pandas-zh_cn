@@ -26,6 +26,4 @@ pandas：强力的Python数据分析工具包
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   :glob:
-   getting_started/*
+   getting_started/overview
