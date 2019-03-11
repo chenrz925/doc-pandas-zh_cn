@@ -53,8 +53,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'pandas-zh_cn'
-copyright = '2019, Chen, Runze'
-author = 'Chen, Runze'
+copyright = '2019, Chen Runze, Li Pengyu, Liu Haobo'
+author = 'Chen Runze'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
