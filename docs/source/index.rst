@@ -5,9 +5,9 @@
 
 .. module:: pandas
 
-==============================
+====================================
 pandas：强力的Python数据分析工具包
-==============================
+====================================
 
 **日期**：2019年2月3日
 
@@ -22,8 +22,9 @@ pandas：强力的Python数据分析工具包
 
 :mod:`pandas` 是一个具有使用简单数据结构的开源高性能 `Python <https://www.python.org/>`__ 数据分析库。
 
-查看 :ref:`overview` 了解关于库的更多细节。
+了解关于库的更多细节：
 
 .. toctree::
    :maxdepth: 2
-   getting_started/overview
+
+   getting_started/index
