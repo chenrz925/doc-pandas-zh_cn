@@ -60,7 +60,7 @@
 
 当你在使用IPython时列名（也是对象的公有属性）的自动补全会被自动打开：
 
-.. ipython::
+.. code-block:: python
 
    @verbatim
    In [1]: df2.<TAB>  # noqa: E225, E999
