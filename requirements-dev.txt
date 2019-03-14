@@ -1,4 +1,4 @@
 ipython>=5.6.0
 ipykernel
 numpy
-pandas
+pandas>=0.24.0
